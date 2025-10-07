@@ -64,6 +64,7 @@ h1 {
 .mainbar p {
 	font-weight: 300;
 	font-size: 24px;
+	color: black;
 }
 .ligne-img {
 	display: flex;
